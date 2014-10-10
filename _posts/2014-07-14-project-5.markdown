@@ -7,7 +7,8 @@ img: guoan.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: Beijing GuoAn FC
+categoryurl: http://en.wikipedia.org/wiki/Beijing_Guoan_F.C.
 description: Beijing is my hometown. In terms of icon in Beijing, well~~ I pick Guoan FC. Guoan is champion forever!
 
 ---
