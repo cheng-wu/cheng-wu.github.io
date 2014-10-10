@@ -11,10 +11,10 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: weibo
+    url: http://www.weibo.com/chenglouis/
   - title: facebook
-    url:
+    url: https://www.facebook.com/Louis.wucheng
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
