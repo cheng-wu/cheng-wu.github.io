@@ -7,7 +7,8 @@ img: music.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
+category: Rock N Roll
+categoryurl: http://site.douban.com/G2O/
 description: I lick rock music. To be specific genre, I like post-hardcore, easy core, trance core, electric core, etc. I used to be guitarist in Going 2 Ohio, a Chinese alternative band. Anyway, here is the list that the bands I love, multi-ego, asking alexandria, escape the fate, bring me the horizon, a day to remember, pierce the vail, chunk no captain chunk, alesana, etc.
 
 ---
