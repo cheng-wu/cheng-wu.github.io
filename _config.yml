@@ -11,16 +11,16 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: www.linkedin.com/pub/cheng-wu/67/402/52b/
   - title: weibo
-    url: http://www.weibo.com/chenglouis/
+    url: http://www.weibo.com/chenglouis
   - title: facebook
     url: https://www.facebook.com/Louis.wucheng
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/cheng-wu
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/cheng-wu
 
 # Postal address (add as many lines as necessary)
 address:
