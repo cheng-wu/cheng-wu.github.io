@@ -1,12 +1,14 @@
 ---
+title: sports
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: sports.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Sports is a major part of my life. Here I am going to give a list of my favorite teams and players. Football, Denver Broncos! CU Buffs!(I am from Colorado!!!). Soccer, Beijing GUOAN FC for sure!! Tennis, Andy Roddick (I love his serve). Basketball, Sixers with AI. Alright, probably that is all. You know what? I am so good at doing sports! Hang out with me!
 
 ---
+
