@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Go Buffs!
 categoryurl: http://www.cubuffs.com/
-description: Sports is a major part of my life. Here I am going to give a list of my favorite teams and players. Football, Denver Broncos! CU Buffs!(I am from Colorado!!!). Soccer, Beijing GUOAN FC for sure!! Tennis, Andy Roddick (I love his serve). Basketball, Sixers with AI. Alright, probably that is all. You know what? I am so good at doing sports! Hang out with me!
+description: Sports is a major part of my life. Here I am going to give a list of my favorite teams and players. Football, Denver Broncos! CU Buffs!(I’m from Colorado!!!). Soccer, Beijing GUOAN FC for sure!! Tennis, Andy Roddick (I like his serve). Basketball, Sixers with AI. Alright, probably that is all. You know what? I am so good at doing sports! Hang out with me! By the way, this pic was taken in Falsom Stadium CU Buffs’ home!!
 
 ---
 

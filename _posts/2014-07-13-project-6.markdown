@@ -9,6 +9,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: The University of Chicago
 categoryurl: http://www.uchicago.edu/
-description: I am currently a student in The University of Chicago. I am studying computer science and focusing on software engineer and cloud computing.
+description: I am currently a student in The University of Chicago. I am studying computer science and focusing on software engineer and cloud computing. Do you have job opportunities? Contact me!!
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: relationship
+title: romantics
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -9,6 +9,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Romantic Relationship
 categoryurl: http://www.weibo.com/honeybunny0224?topnav=1&wvr=5&topsug=1
-description: Yes! you are right! I have a stable relationship with Yuting Wang. She is neither my colleague nor my college classmate. We met back in 2006 Fall in high school wow! We are each other’s soul mate, although this is sort of long distance relationship currently. We married in Little White Chapel at Las Vegas 2014 Oct 5th, which I believe is a good start for my rest of life. I love you!
+description: Yes! you are right! I have a stable relationship with Yuting Wang. But she is neither my colleague nor my college classmate. We met back in 2006 Fall in high school wow! Right now We are each other’s soul mate, although this is sort of long distance relationship currently. We married in Little White Chapel at Las Vegas 2014 Oct 5th, which I believe is a good start for my rest of life. I love you!
 
 ---

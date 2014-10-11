@@ -9,6 +9,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: Beijing GuoAn FC
 categoryurl: http://en.wikipedia.org/wiki/Beijing_Guoan_F.C.
-description: Beijing is my hometown. In terms of icon in Beijing, well~~ I pick Guoan FC. Guoan is champion forever!
+description: Beijing is my home. Home, sweet home! In terms of icon in Beijing, well~~ I would like pick Guoan FC. Guoan is champion forever!
 
 ---
