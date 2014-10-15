@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Alternative Music
 categoryurl: http://site.douban.com/G2O/
-description: I lick rock music. To be more specific, I like post-hardcore, easy core, trance core, electric core, etc. I used to be guitarist in Going 2 Ohio, a Chinese alternative music band. Anyway, here is the list of bands that I love, multi-ego, asking alexandria, escape the fate, bring me the horizon, a day to remember, pierce the vail, chunk no captain chunk, alesana, etc. See you in Rock live!
+description: In my free time, I like to play guitar. I was formerly in Going 2 Ohio, a Chinese alternative music band. My favorite types of music are post-hardcore, trance core, and electronic core. Some of my favorite bands are Multi-Ego, Asking Alexandria, Escape the Fate, Bring Me the Horizon, A Day to Remember, Pierce the Veil, Chunk No Captain Chunk, and Alesana. See you at the show!
 
 ---
 
