@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: University of Colorado Buffs
 categoryurl: http://www.colorado.edu/
-description: I graduated from University of Colorado at Boulder in 2014 May triple majored in Computer Science, Mathematics and Economics with distinction honor. People’s republic of Boulder gave me an impressive precious memory for me. 
+description: I graduated with distinction from University of Colorado at Boulder in May 2014 with a triple major in Computer Science, Mathematics, and Economics.
 
 ---
 

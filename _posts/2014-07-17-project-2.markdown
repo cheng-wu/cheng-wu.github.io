@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Go Buffs!
 categoryurl: http://www.cubuffs.com/
-description: This is a picture of Folsom Field at my alma mater, CU-Boulder. I’m a huge fan of the Denver Broncos, Philadelphia 76ers, Andy Roddick, Beijing Guoan FC, and most importantly, the CU Buffaloes. Go Buffs!
+description: This is a picture of Folsom Field at my alma mater, the University of Colorado at Boulder. I’m a huge fan of the Denver Broncos, Philadelphia 76ers, Andy Roddick, Beijing Guoan FC, and most importantly, the CU Buffaloes. Go Buffs!
 
 ---
 
